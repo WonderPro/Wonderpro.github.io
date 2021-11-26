@@ -77,7 +77,7 @@ _____
 
 # Mentors
 
-<img align="left" width="550" src="https://avatars.githubusercontent.com/u/77779003?v=4">
+<img width="550" src="https://avatars.githubusercontent.com/u/77779003?v=4">
 
 # **Arya Nair**
 
@@ -110,7 +110,7 @@ solutions.
 
 ______
 
-<img align="right" width="550" src="https://user-images.githubusercontent.com/83284294/142610526-a087790b-e5fe-4f8f-a7e8-fb45dfe71c4e.jpg">
+<img width="550" src="https://user-images.githubusercontent.com/83284294/142610526-a087790b-e5fe-4f8f-a7e8-fb45dfe71c4e.jpg">
 
 
 # **Aatmaj Zephyr**
@@ -181,7 +181,7 @@ Attreyee Mukherjee is our **Python mentor**. She is a Technology Enthusiast who 
 ___
 # Coordinators
 
-<img width="300" align="left" src="https://user-images.githubusercontent.com/83284294/142762313-9342e285-2bf8-4545-b7a0-4157261f0383.jpeg">
+<img src="https://user-images.githubusercontent.com/83284294/142762313-9342e285-2bf8-4545-b7a0-4157261f0383.jpeg">
 
 # Tanmay Dikey
 
@@ -199,7 +199,7 @@ A people's guy. That's what Tanmay is known as. Tanmay is a very friendly guy wh
 
 ____
 
-<img align="right" width="400" src="https://user-images.githubusercontent.com/83284294/142573185-e3e91afe-1b23-4e40-8065-540b65b900a9.jpeg">
+<img width="400" src="https://user-images.githubusercontent.com/83284294/142573185-e3e91afe-1b23-4e40-8065-540b65b900a9.jpeg">
 
 # Atharva Karawde
 
