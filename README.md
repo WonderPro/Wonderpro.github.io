@@ -149,7 +149,7 @@ Aatmaj is a computer science enthusiast with a keen interest in Maths. He is the
 <hr>
 
 
-<img align="left" width="550" src="https://user-images.githubusercontent.com/83284294/142751426-51e3ba6a-c55b-4079-92df-0627ebb3b33c.jpeg">
+<img  width="550" src="https://user-images.githubusercontent.com/83284294/142751426-51e3ba6a-c55b-4079-92df-0627ebb3b33c.jpeg">
 
 
 # **Attreyee Mukherjee**
